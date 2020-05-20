@@ -20,9 +20,9 @@ var instructions = {
     "<p>If the circle is <strong>orange</strong>, do not press any key, " +
     "wait for the next trial.</p>" +
     "<div style='width: 700px;'>" +
-    "<div style='float: left;'><img src='" + repo_site + "img/blue.png'/>" +
+    "<div style='float: left;'><img src='" + repo_site + "img/blue.png'></img>" +
     "<p class='small'><strong>Press SPACE</strong></p></div>" +
-    "<div class='float: right;'><img src='" + repo_site + "img/orange.png'/>" +
+    "<div class='float: right;'><img src='" + repo_site + "img/orange.png'></img>" +
     "<p class='small'><strong>Press nothing!</strong></p></div>" +
     "</div>" +
     "<p>Press any key to begin.</p>",
